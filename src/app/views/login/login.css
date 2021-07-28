@@ -1,0 +1,29 @@
+.wrapper_login{
+    height: 100vh;
+}
+.wrapper_login .col_login{
+    margin: auto;
+    margin-top: 8%;
+    /* position: absolute;
+    align-items: center;
+    justify-content: center;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    display: flex; */
+
+}
+.col_login .jumbotron h3{
+    text-align: center;
+}
+.wrapper_login .col_login .card-body{
+    height: 270px;
+}
+.wrapper_login .col_login .card-body .form_login{
+    height: 100%;
+    padding-top: 15px;
+}
+.form_login .form-group{
+    margin-bottom: 20px;
+}
